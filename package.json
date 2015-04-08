@@ -17,7 +17,11 @@
     "auth",
     "authentication"
   ],
-  "author": "ghaiklor",
+  "author": {
+    "name": "Eugene Obrezkov",
+    "email": "ghaiklor@gmail.com",
+    "url": "https://github.com/ghaiklor"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ghaiklor/passport-yandex-token/issues"
