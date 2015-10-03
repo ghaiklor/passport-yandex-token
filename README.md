@@ -28,6 +28,8 @@ The Yandex authentication strategy authenticates users using a Yandex account an
 The strategy requires a `verify` callback, which accepts these credentials and calls `next` providing a user, as well as `options` specifying a app ID and app secret.
 
 ```javascript
+var YandexTokenStrategy = require('passport-yandex-token');
+
 passport.use(new YandexTokenStrategy({
     clientID: YANDEX_CLIENT_ID,
     clientSecret: YANDEX_CLIENT_SECRET,
