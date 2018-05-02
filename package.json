@@ -43,8 +43,8 @@
     "coveralls": "2.11.16",
     "cz-conventional-changelog": "2.1.0",
     "isparta": "4.0.0",
-    "mocha": "5.0.1",
-    "semantic-release": "11.0.2",
+    "mocha": "5.0.5",
+    "semantic-release": "15.1.5",
     "sinon": "5.0.1"
   },
   "config": {
